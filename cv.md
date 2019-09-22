@@ -1,6 +1,9 @@
 # Babanin Dmitry
 #### Junior Developer
-![my-photo](https://i.ibb.co/q7DFCNb/my-photo.png)
+![my-photo](https://i.ibb.co/0JV3LMn/my-photo.png)
+
+Contact | Value
+------------ | -------------
 Phone | +375293808409
 Email | babanin.dima@gmail.com
 LinkedIn | www.linkedin.com/in/lorddetson
